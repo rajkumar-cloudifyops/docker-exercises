@@ -7,7 +7,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "mongodb": "2.2.24",
+    "mongodb": "2.2.36",
     "express": "latest"
   },
   "devDependencies": {
