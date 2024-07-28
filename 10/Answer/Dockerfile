@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.19.3
 
 RUN apk update && apk add ca-certificates && update-ca-certificates
 RUN apk add wget
